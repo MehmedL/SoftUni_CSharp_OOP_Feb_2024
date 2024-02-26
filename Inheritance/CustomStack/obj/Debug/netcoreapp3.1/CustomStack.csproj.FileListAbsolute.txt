@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\user\Desktop\SoftuniC#Advanced\SoftuniC#OOP\Softuni OOP\Farm\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache
