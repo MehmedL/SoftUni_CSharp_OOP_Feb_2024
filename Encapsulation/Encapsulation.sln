@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonsInfo", "PersonsInfo\PersonsInfo.csproj", "{3FAD1F2F-D1B2-48E6-8CEC-B5D211009236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonsInfo", "PersonsInfo\PersonsInfo.csproj", "{3FAD1F2F-D1B2-48E6-8CEC-B5D211009236}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassBoxData", "ClassBoxData\ClassBoxData.csproj", "{9A648A18-2E7C-497F-B948-1D40552A299B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSpree", "ShoppingSpree\ShoppingSpree.csproj", "{62311416-D9BD-46F9-B89B-3E5FA377F35A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3FAD1F2F-D1B2-48E6-8CEC-B5D211009236}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FAD1F2F-D1B2-48E6-8CEC-B5D211009236}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FAD1F2F-D1B2-48E6-8CEC-B5D211009236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A648A18-2E7C-497F-B948-1D40552A299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A648A18-2E7C-497F-B948-1D40552A299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A648A18-2E7C-497F-B948-1D40552A299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A648A18-2E7C-497F-B948-1D40552A299B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62311416-D9BD-46F9-B89B-3E5FA377F35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62311416-D9BD-46F9-B89B-3E5FA377F35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62311416-D9BD-46F9-B89B-3E5FA377F35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62311416-D9BD-46F9-B89B-3E5FA377F35A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
