@@ -8,10 +8,10 @@ namespace ShoppingSpree
 {
     public class Product
     {
-		private  string name;
+        private string name;
         private int cost;
 
-        public Product(string name,int cost)
+        public Product(string name, int cost)
         {
             Name = name;
             Cost = cost;
@@ -20,7 +20,7 @@ namespace ShoppingSpree
         public int Cost
         {
             get => cost;
-            private set
+            set
             {
                 if (value < 0)
                 {
@@ -33,11 +33,11 @@ namespace ShoppingSpree
         public string Name
         {
             get => name;
-            private set
+            set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentNullException("Name cannot be empty");
+                    throw new ArgumentException("Name cannot be empty");
                 }
                 name = value;
             }

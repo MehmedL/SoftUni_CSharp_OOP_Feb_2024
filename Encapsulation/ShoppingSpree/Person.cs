@@ -8,54 +8,54 @@ namespace ShoppingSpree
 {
     public class Person
     {
-		private  string name;
-		private decimal money;
-		private List<Product> bagOfProducts;
+        private string name;
+        private int money;
+        private List<Product> bag;
 
-        public Person(string name, decimal money)
+        public Person(string name, int money)
         {
             Name = name;
             Money = money;
-			bagOfProducts = new List<Product>();
+            bag = new List<Product>();
         }
 
-		public List<Product> Bag => bagOfProducts;
+        public List<Product> Bag => bag;
+
+        public int Money
+        {
+            get => money;
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("Money cannot be negative");
+                }
+                money = value;
+            }
+        }
 
         public string Name
-		{
-			get { return name; }
-			private set 
-			{ 
-				if (string.IsNullOrWhiteSpace(value))
-				{
-					throw new ArgumentNullException("Name cannot be empty");
-				}
-				name = value; 
-			}
-		}
+        {
+            get => name;
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Name cannot be empty");
+                }
+                name = value;
+            }
+        }
 
-		public decimal Money
-		{
-			get { return money; }
-			private set 
-			{
-				if (value < 0)
-				{
-					throw new ArgumentException("Money cannot be negative");
-				}
-				money = value;
-			}
-		}
+        public void AddProduct(Product product)
+        {
+            if (product.Cost > this.Money)
+            {
+                throw new ArgumentException($"{this.Name} can't afford {product.Name}");
+            }
 
-		public void AddProduct(Product product)
-		{
-			if(product.Cost > this.Money)
-			{
-				throw new ArgumentException($"{this.Name} can't afford {product.Name}");
-			}
-			this.bagOfProducts.Add(product);
-			this.Money -= product.Cost;
-		}
-
-	}
+            bag.Add(product);
+            this.Money -= product.Cost;
+        }
+    }
 }
